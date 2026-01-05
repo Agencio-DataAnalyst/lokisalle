@@ -30,4 +30,5 @@
 4. Lancer le projet via un serveur local (WAMP, XAMPP ou MAMP).
 
 ---
-*Projet réalisé avec passion par [Ton Nom/Prénom]*
+
+*Projet réalisé avec passion par Une équipe LOKISALLE*
